@@ -1,0 +1,15 @@
+C:\Users\adas\source\repos\ConsoleAppACPLog\ConsoleAppACPLog\bin\Debug\netcoreapp3.1\ConsoleAppACPLog.exe
+C:\Users\adas\source\repos\ConsoleAppACPLog\ConsoleAppACPLog\bin\Debug\netcoreapp3.1\ConsoleAppACPLog.deps.json
+C:\Users\adas\source\repos\ConsoleAppACPLog\ConsoleAppACPLog\bin\Debug\netcoreapp3.1\ConsoleAppACPLog.runtimeconfig.json
+C:\Users\adas\source\repos\ConsoleAppACPLog\ConsoleAppACPLog\bin\Debug\netcoreapp3.1\ConsoleAppACPLog.runtimeconfig.dev.json
+C:\Users\adas\source\repos\ConsoleAppACPLog\ConsoleAppACPLog\bin\Debug\netcoreapp3.1\ConsoleAppACPLog.dll
+C:\Users\adas\source\repos\ConsoleAppACPLog\ConsoleAppACPLog\bin\Debug\netcoreapp3.1\ConsoleAppACPLog.pdb
+C:\Users\adas\source\repos\ConsoleAppACPLog\ConsoleAppACPLog\obj\Debug\netcoreapp3.1\ConsoleAppACPLog.csprojAssemblyReference.cache
+C:\Users\adas\source\repos\ConsoleAppACPLog\ConsoleAppACPLog\obj\Debug\netcoreapp3.1\ConsoleAppACPLog.csproj.CoreCompileInputs.cache
+C:\Users\adas\source\repos\ConsoleAppACPLog\ConsoleAppACPLog\obj\Debug\netcoreapp3.1\ConsoleAppACPLog.AssemblyInfoInputs.cache
+C:\Users\adas\source\repos\ConsoleAppACPLog\ConsoleAppACPLog\obj\Debug\netcoreapp3.1\ConsoleAppACPLog.AssemblyInfo.cs
+C:\Users\adas\source\repos\ConsoleAppACPLog\ConsoleAppACPLog\obj\Debug\netcoreapp3.1\ConsoleAppACPLog.dll
+C:\Users\adas\source\repos\ConsoleAppACPLog\ConsoleAppACPLog\obj\Debug\netcoreapp3.1\ConsoleAppACPLog.pdb
+C:\Users\adas\source\repos\ConsoleAppACPLog\ConsoleAppACPLog\obj\Debug\netcoreapp3.1\ConsoleAppACPLog.genruntimeconfig.cache
+C:\Users\adas\source\repos\ConsoleAppACPLog\ConsoleAppACPLog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adas\source\repos\ConsoleAppACPLog\ConsoleAppACPLog\obj\Debug\netcoreapp3.1\ConsoleAppACPLog.csproj.CopyComplete

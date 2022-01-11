@@ -1,0 +1,15 @@
+C:\Users\adas\source\repos\ConsoleAppPTMetricFile\ConsoleAppPTMetricFile\bin\Debug\netcoreapp3.1\ConsoleAppPTMetricFile.exe
+C:\Users\adas\source\repos\ConsoleAppPTMetricFile\ConsoleAppPTMetricFile\bin\Debug\netcoreapp3.1\ConsoleAppPTMetricFile.deps.json
+C:\Users\adas\source\repos\ConsoleAppPTMetricFile\ConsoleAppPTMetricFile\bin\Debug\netcoreapp3.1\ConsoleAppPTMetricFile.runtimeconfig.json
+C:\Users\adas\source\repos\ConsoleAppPTMetricFile\ConsoleAppPTMetricFile\bin\Debug\netcoreapp3.1\ConsoleAppPTMetricFile.runtimeconfig.dev.json
+C:\Users\adas\source\repos\ConsoleAppPTMetricFile\ConsoleAppPTMetricFile\bin\Debug\netcoreapp3.1\ConsoleAppPTMetricFile.dll
+C:\Users\adas\source\repos\ConsoleAppPTMetricFile\ConsoleAppPTMetricFile\bin\Debug\netcoreapp3.1\ConsoleAppPTMetricFile.pdb
+C:\Users\adas\source\repos\ConsoleAppPTMetricFile\ConsoleAppPTMetricFile\obj\Debug\netcoreapp3.1\ConsoleAppPTMetricFile.csprojAssemblyReference.cache
+C:\Users\adas\source\repos\ConsoleAppPTMetricFile\ConsoleAppPTMetricFile\obj\Debug\netcoreapp3.1\ConsoleAppPTMetricFile.csproj.CoreCompileInputs.cache
+C:\Users\adas\source\repos\ConsoleAppPTMetricFile\ConsoleAppPTMetricFile\obj\Debug\netcoreapp3.1\ConsoleAppPTMetricFile.AssemblyInfoInputs.cache
+C:\Users\adas\source\repos\ConsoleAppPTMetricFile\ConsoleAppPTMetricFile\obj\Debug\netcoreapp3.1\ConsoleAppPTMetricFile.AssemblyInfo.cs
+C:\Users\adas\source\repos\ConsoleAppPTMetricFile\ConsoleAppPTMetricFile\obj\Debug\netcoreapp3.1\ConsoleAppPTMetricFile.dll
+C:\Users\adas\source\repos\ConsoleAppPTMetricFile\ConsoleAppPTMetricFile\obj\Debug\netcoreapp3.1\ConsoleAppPTMetricFile.pdb
+C:\Users\adas\source\repos\ConsoleAppPTMetricFile\ConsoleAppPTMetricFile\obj\Debug\netcoreapp3.1\ConsoleAppPTMetricFile.genruntimeconfig.cache
+C:\Users\adas\source\repos\ConsoleAppPTMetricFile\ConsoleAppPTMetricFile\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adas\source\repos\ConsoleAppPTMetricFile\ConsoleAppPTMetricFile\obj\Debug\netcoreapp3.1\ConsoleAppPTMetricFile.csproj.CopyComplete

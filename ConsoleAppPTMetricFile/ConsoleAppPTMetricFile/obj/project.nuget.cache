@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c1EqZLR4dqjlE1UDr+ncR1jlaRBMfdBZqYAFsU2xlATqu2P5fzrFs07sRLhryjlIK2VlKySVARjvmHfqPX7cfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adas\\source\\repos\\ConsoleAppPTMetricFile\\ConsoleAppPTMetricFile\\ConsoleAppPTMetricFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

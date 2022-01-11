@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "BigDataStorage": "DefaultEndpointsProtocol=https;AccountName=kymetabigdata;AccountKey=HcmXJ6Ks9sV44ef5JhFtIaAEIgL+EhIF8n1wG/an8wyyVuKe/CbPNrSsQuCN7dKy/f6he4cEBi6JGYuGT6//IA==;EndpointSuffix=core.windows.net",
+    "W2sakcsStorage": "DefaultEndpointsProtocol=https;AccountName=w2sakcs;AccountKey=oUMy4uRjOBnj+kJYXa4pUIn8Vo410u+BY5P6nSmuDZy3I7GIGHSohRjL89Wdf6gp4EnRaeRSqLZqQLmOdh2sqQ==;EndpointSuffix=core.windows.net",
+    "RawFSTDataContainer": "rawasmfstdata",
+    "FSTDataContainer": "asmfstdata"
+  }
+}

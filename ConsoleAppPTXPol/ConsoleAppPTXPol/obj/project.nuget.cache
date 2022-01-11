@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NNddkbGtQwnxaclOgoAn8mxs3MeD5OGxkzZWY5bO0R2+UzR6AYNVXTkEVo2NSFzp2lmjntq7aiJ/Zqyo4uE14w==",
+  "success": true,
+  "projectFilePath": "C:\\kymeta datalake\\datalakeImport\\ConsoleAppPTXPol\\ConsoleAppPTXPol\\ConsoleAppPTXPol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

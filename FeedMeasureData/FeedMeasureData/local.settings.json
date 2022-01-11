@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "BigDataStorage": "DefaultEndpointsProtocol=https;AccountName=kymetabigdata;AccountKey=HcmXJ6Ks9sV44ef5JhFtIaAEIgL+EhIF8n1wG/an8wyyVuKe/CbPNrSsQuCN7dKy/f6he4cEBi6JGYuGT6//IA==;EndpointSuffix=core.windows.net",
+    "RawFeedMeasureContainer": "rawfeedmeasure",
+    "FeedMeasureContainer": "feedmeasure"
+  }
+}

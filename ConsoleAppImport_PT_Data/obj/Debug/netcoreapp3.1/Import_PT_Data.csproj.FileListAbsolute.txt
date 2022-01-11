@@ -1,0 +1,17 @@
+C:\kymeta datalake\Program\bin\Debug\netcoreapp3.1\Import_PT_Data.exe
+C:\kymeta datalake\Program\bin\Debug\netcoreapp3.1\Import_PT_Data.deps.json
+C:\kymeta datalake\Program\bin\Debug\netcoreapp3.1\Import_PT_Data.runtimeconfig.json
+C:\kymeta datalake\Program\bin\Debug\netcoreapp3.1\Import_PT_Data.runtimeconfig.dev.json
+C:\kymeta datalake\Program\bin\Debug\netcoreapp3.1\Import_PT_Data.dll
+C:\kymeta datalake\Program\bin\Debug\netcoreapp3.1\Import_PT_Data.pdb
+C:\kymeta datalake\Program\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\kymeta datalake\Program\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+C:\kymeta datalake\Program\bin\Debug\netcoreapp3.1\office.dll
+C:\kymeta datalake\Program\obj\Debug\netcoreapp3.1\Import_PT_Data.csprojAssemblyReference.cache
+C:\kymeta datalake\Program\obj\Debug\netcoreapp3.1\Import_PT_Data.csproj.CoreCompileInputs.cache
+C:\kymeta datalake\Program\obj\Debug\netcoreapp3.1\Import_PT_Data.AssemblyInfoInputs.cache
+C:\kymeta datalake\Program\obj\Debug\netcoreapp3.1\Import_PT_Data.AssemblyInfo.cs
+C:\kymeta datalake\Program\obj\Debug\netcoreapp3.1\Import_PT_Data.csproj.CopyComplete
+C:\kymeta datalake\Program\obj\Debug\netcoreapp3.1\Import_PT_Data.dll
+C:\kymeta datalake\Program\obj\Debug\netcoreapp3.1\Import_PT_Data.pdb
+C:\kymeta datalake\Program\obj\Debug\netcoreapp3.1\Import_PT_Data.genruntimeconfig.cache

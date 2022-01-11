@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Import_PT_Data", "Import_PT_Data.csproj", "{513CC385-9DE5-45AE-BD7D-3166E306BBEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{513CC385-9DE5-45AE-BD7D-3166E306BBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513CC385-9DE5-45AE-BD7D-3166E306BBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513CC385-9DE5-45AE-BD7D-3166E306BBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513CC385-9DE5-45AE-BD7D-3166E306BBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48A4816B-2389-46C9-BD45-0E9B5C5A74A1}
+	EndGlobalSection
+EndGlobal

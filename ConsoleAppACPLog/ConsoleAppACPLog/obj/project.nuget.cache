@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PFlVpKuVK2bG4M1jewapP20vhWt4jxBZ/3o6AmsoUgEZo0Zz7kTrtAvstIPuW4Zx0qe5hN8S6mhz/a70xbr1CQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adas\\source\\repos\\ConsoleAppACPLog\\ConsoleAppACPLog\\ConsoleAppACPLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

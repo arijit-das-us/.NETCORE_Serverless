@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9bcd273d-e5e6-4aa8-b08e-f3fd5f92d2e7": {
+      "ProjectGuid": "9bcd273d-e5e6-4aa8-b08e-f3fd5f92d2e7",
+      "DisplayName": "TestDurableOrchestration",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

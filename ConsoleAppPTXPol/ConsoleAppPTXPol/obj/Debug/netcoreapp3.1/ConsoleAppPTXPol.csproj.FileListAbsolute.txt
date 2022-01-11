@@ -1,0 +1,15 @@
+C:\kymeta datalake\datalakeImport\ConsoleAppPTXPol\ConsoleAppPTXPol\bin\Debug\netcoreapp3.1\ConsoleAppPTXPol.exe
+C:\kymeta datalake\datalakeImport\ConsoleAppPTXPol\ConsoleAppPTXPol\obj\Debug\netcoreapp3.1\ConsoleAppPTXPol.csprojAssemblyReference.cache
+C:\kymeta datalake\datalakeImport\ConsoleAppPTXPol\ConsoleAppPTXPol\obj\Debug\netcoreapp3.1\ConsoleAppPTXPol.AssemblyInfoInputs.cache
+C:\kymeta datalake\datalakeImport\ConsoleAppPTXPol\ConsoleAppPTXPol\obj\Debug\netcoreapp3.1\ConsoleAppPTXPol.AssemblyInfo.cs
+C:\kymeta datalake\datalakeImport\ConsoleAppPTXPol\ConsoleAppPTXPol\bin\Debug\netcoreapp3.1\ConsoleAppPTXPol.deps.json
+C:\kymeta datalake\datalakeImport\ConsoleAppPTXPol\ConsoleAppPTXPol\bin\Debug\netcoreapp3.1\ConsoleAppPTXPol.runtimeconfig.json
+C:\kymeta datalake\datalakeImport\ConsoleAppPTXPol\ConsoleAppPTXPol\bin\Debug\netcoreapp3.1\ConsoleAppPTXPol.runtimeconfig.dev.json
+C:\kymeta datalake\datalakeImport\ConsoleAppPTXPol\ConsoleAppPTXPol\bin\Debug\netcoreapp3.1\ConsoleAppPTXPol.dll
+C:\kymeta datalake\datalakeImport\ConsoleAppPTXPol\ConsoleAppPTXPol\bin\Debug\netcoreapp3.1\ConsoleAppPTXPol.pdb
+C:\kymeta datalake\datalakeImport\ConsoleAppPTXPol\ConsoleAppPTXPol\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\kymeta datalake\datalakeImport\ConsoleAppPTXPol\ConsoleAppPTXPol\obj\Debug\netcoreapp3.1\ConsoleAppPTXPol.csproj.CoreCompileInputs.cache
+C:\kymeta datalake\datalakeImport\ConsoleAppPTXPol\ConsoleAppPTXPol\obj\Debug\netcoreapp3.1\ConsoleAppPTXPol.csproj.CopyComplete
+C:\kymeta datalake\datalakeImport\ConsoleAppPTXPol\ConsoleAppPTXPol\obj\Debug\netcoreapp3.1\ConsoleAppPTXPol.dll
+C:\kymeta datalake\datalakeImport\ConsoleAppPTXPol\ConsoleAppPTXPol\obj\Debug\netcoreapp3.1\ConsoleAppPTXPol.pdb
+C:\kymeta datalake\datalakeImport\ConsoleAppPTXPol\ConsoleAppPTXPol\obj\Debug\netcoreapp3.1\ConsoleAppPTXPol.genruntimeconfig.cache

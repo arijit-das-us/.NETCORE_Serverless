@@ -1,0 +1,13 @@
+C:\Users\adas\source\repos\ASMMetricCopyConsoleApp\ASMMetricCopyConsoleApp\bin\Debug\netcoreapp3.1\ASMMetricCopyConsoleApp.exe
+C:\Users\adas\source\repos\ASMMetricCopyConsoleApp\ASMMetricCopyConsoleApp\bin\Debug\netcoreapp3.1\ASMMetricCopyConsoleApp.deps.json
+C:\Users\adas\source\repos\ASMMetricCopyConsoleApp\ASMMetricCopyConsoleApp\bin\Debug\netcoreapp3.1\ASMMetricCopyConsoleApp.runtimeconfig.json
+C:\Users\adas\source\repos\ASMMetricCopyConsoleApp\ASMMetricCopyConsoleApp\bin\Debug\netcoreapp3.1\ASMMetricCopyConsoleApp.runtimeconfig.dev.json
+C:\Users\adas\source\repos\ASMMetricCopyConsoleApp\ASMMetricCopyConsoleApp\bin\Debug\netcoreapp3.1\ASMMetricCopyConsoleApp.dll
+C:\Users\adas\source\repos\ASMMetricCopyConsoleApp\ASMMetricCopyConsoleApp\bin\Debug\netcoreapp3.1\ASMMetricCopyConsoleApp.pdb
+C:\Users\adas\source\repos\ASMMetricCopyConsoleApp\ASMMetricCopyConsoleApp\obj\Debug\netcoreapp3.1\ASMMetricCopyConsoleApp.csprojAssemblyReference.cache
+C:\Users\adas\source\repos\ASMMetricCopyConsoleApp\ASMMetricCopyConsoleApp\obj\Debug\netcoreapp3.1\ASMMetricCopyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\adas\source\repos\ASMMetricCopyConsoleApp\ASMMetricCopyConsoleApp\obj\Debug\netcoreapp3.1\ASMMetricCopyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\adas\source\repos\ASMMetricCopyConsoleApp\ASMMetricCopyConsoleApp\obj\Debug\netcoreapp3.1\ASMMetricCopyConsoleApp.AssemblyInfo.cs
+C:\Users\adas\source\repos\ASMMetricCopyConsoleApp\ASMMetricCopyConsoleApp\obj\Debug\netcoreapp3.1\ASMMetricCopyConsoleApp.dll
+C:\Users\adas\source\repos\ASMMetricCopyConsoleApp\ASMMetricCopyConsoleApp\obj\Debug\netcoreapp3.1\ASMMetricCopyConsoleApp.pdb
+C:\Users\adas\source\repos\ASMMetricCopyConsoleApp\ASMMetricCopyConsoleApp\obj\Debug\netcoreapp3.1\ASMMetricCopyConsoleApp.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HertzFarFieldGenericImport", "HertzFarFieldGenericImport\HertzFarFieldGenericImport.csproj", "{608DA734-4F70-4A4A-AA60-42F23F5F9DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{608DA734-4F70-4A4A-AA60-42F23F5F9DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608DA734-4F70-4A4A-AA60-42F23F5F9DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608DA734-4F70-4A4A-AA60-42F23F5F9DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608DA734-4F70-4A4A-AA60-42F23F5F9DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C97A3424-E335-402B-90FD-1259C57531CC}
+	EndGlobalSection
+EndGlobal
