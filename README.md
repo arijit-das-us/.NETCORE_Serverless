@@ -2,5 +2,7 @@
 
 All the serverless programming using .NET core for the Azure Data factory
 
-![image](https://user-images.githubusercontent.com/75774961/148869853-2ce59f5d-489f-47e5-898b-3af7a1374180.png)
+![image](https://user-images.githubusercontent.com/75774961/149043902-441e1b2e-9cee-4c8b-9859-a773c016c4c6.png)
+
+![image](https://user-images.githubusercontent.com/75774961/149043950-313e8125-a241-497b-a159-7725da32c14b.png)
 
