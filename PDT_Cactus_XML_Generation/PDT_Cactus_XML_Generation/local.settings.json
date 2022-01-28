@@ -1,0 +1,16 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    //"StorageAccount": "DefaultEndpointsProtocol=https;AccountName=pdtcactuscsvfile;AccountKey=75KWNgtU7i60qsb50cq+XeSt6xKIsCQzFnS+MUoRk1f/SuUCR2xIq5GoGjWh40mpkuTNQzGVxo1Um/a/Rg6RJw==;EndpointSuffix=core.windows.net",
+    "pdt_StorageAccount": "DefaultEndpointsProtocol=https;AccountName=datalakeprimaryuscdev;AccountKey=uMSnbXx40bPpTofy29B57isdULFW6OzSabdprkbNXFPUgc6M/XuDUhGu+WlYhpSIoIav42+7QSiQmO1degzNHA==;EndpointSuffix=core.windows.net",
+    //"StorageAccount": "DefaultEndpointsProtocol=https;AccountName=cdcpdtcactusstorage;AccountKey=oCflw7GHzXnlVz7iSRxfSLxFg0Aa8dKg3USggtW4D+LTm81bG3Nv6TgQQbKeIBTkqxxiwYUihzKxGIt3oVhLKw==;EndpointSuffix=core.windows.net",
+    "pdt_StorageContainer": "integratedzone",
+    "pdt_EventHubConnectionString": "Endpoint=sb://dp-prvxml-ehn-usc-dev.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=1N60V3jJZdmelxY7E1F8RCVxBlmiSDTu0Li2oPuFtEo=",
+    "pdt_EH_cactus_affiliation": "cactus-affiliation",
+    "pdt_EH_cactus_institution": "cactus-institution",
+    "pdt_EH_cactus_qualification": "cactus-qualification",
+    "pdt_BatchSize": "1000"
+  }
+}
